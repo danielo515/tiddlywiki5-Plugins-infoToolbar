@@ -1,0 +1,18 @@
+created: 20140605115344463
+modified: 20140605115623547
+title: $:/config/CodeMirror
+type: application/json
+
+{
+  "require": [
+      "$:/plugins/tiddlywiki/codemirror/mode/javascript/javascript.js",
+      "$:/plugins/tiddlywiki/codemirror/addon/dialog/dialog.js",
+      "$:/plugins/tiddlywiki/codemirror/addon/search/searchcursor.js",
+      "$:/plugins/tiddlywiki/codemirror/keymap/vim.js",
+      "$:/plugins/tiddlywiki/codemirror/keymap/emacs.js"
+  ],
+  "configuration": {
+      "keyMap": "vim",
+      "showCursorWhenSelecting": true
+  }
+}
