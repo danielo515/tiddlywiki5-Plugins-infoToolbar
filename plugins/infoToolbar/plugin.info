@@ -4,6 +4,6 @@
 	"author": "DanieloRodrigez",
 	"version": "0.0.3",
 	"core-version": ">=5.0.8",
-	"source": "https://github.com/yourgithub/pluginname",
+	"source": "https://github.com/danielo515/tiddlywiki5-Plugins-infoToolbar",
 	"plugin-type": "plugin"
 }
